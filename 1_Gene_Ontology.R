@@ -1,5 +1,5 @@
 # Author: Fernando Rodríguez Marín
-# Contact: fernando.rodriguez.marin8@gmail.com
+# Contact: fernando.rodriguez@ibvf.csic.es
 
 library(clusterProfiler)
 library(org.At.tair.db)
