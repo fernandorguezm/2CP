@@ -1,0 +1,13 @@
+ATHsp70-1	AT5G02500	cytosol
+ATHsp70-2	AT5G02490	cytosol
+ATHsp70-3	AT3G09440	cytosol
+ATHsp70-4	AT3G12580	cytosol
+ATHsp70-5	AT1G16030	cytosol
+ATHsp70-6	AT4G24280	plastid
+ATHsp70-7	AT5G49910	plastid
+ATHsp70-8	AT2G32120	cytosol
+ATHsp70-9	AT4G37910	mitochondrion
+ATHsp70-10	AT5G09590	mitochondrion
+ATHsp70-11	AT5G13820	nucleus
+ATHsp70-15	AT1G79920	cytosol
+ATHsp70-17	AT4G16660	endoplasmic reticulum

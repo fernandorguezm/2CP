@@ -1,0 +1,18 @@
+AtHsp14.2	AT5G47600	Plastid
+AtHsp15.4	AT4G21870	Cytoplasmic-nuclear
+AtHsp15.7	AT5G37670	Cytoplasmic-nuclear
+AtHsp17.4	AT1G54050	Cytoplasmic-nuclear
+AtHsp17.4	AT3G46230	Cytoplasmic-nuclear
+AtHsp17.6A	AT1G59860	Cytoplasmic-nuclear
+AtHsp17.6B	AT2G29500	Cytoplasmic-nuclear
+AtHsp17.6C	AT1G53540	Cytoplasmic-nuclear
+AtHsp17.6	AT5G12020	Cytoplasmic-nuclear
+AtHsp17.7	AT5G12030	Cytoplasmic-nuclear
+AtHsp18.1	AT5G59720	Cytoplasmic-nuclear
+AtHsp18.5	AT2G19310	Cytoplasmic-nuclear
+AtHsp21.7	AT5G54660	Cytoplasmic-nuclear
+AtHsp22.0	AT4G10250	Endoplasmic Reticulum
+AtHsp23.5	AT5G51440	Mitochondrion
+AtHsp23.6	AT4G25200	Mitochondrion
+AtHsp25.4	AT4G27670	Plastid
+AtHsp26.5	AT1G52560	Plastid

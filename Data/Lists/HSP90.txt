@@ -1,0 +1,7 @@
+AtHsp90-1	AT5G52640	Cytosol
+AtHsp90-2	AT5G56030	Cytosol/Nucleus
+AtHsp90-3	AT5G56010	Cytosol
+AtHsp90-4	AT5G56000	Cytosol
+AtHsp90-5	AT2G04030	plastid
+AtHsp90-6	AT3G07770	mitochondrion
+AtHsp90-7	AT4G24190	endoplasmic reticulum
