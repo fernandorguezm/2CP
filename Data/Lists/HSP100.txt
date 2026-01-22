@@ -1,0 +1,8 @@
+HSP101	AT1G74310	cytosol
+HSP98.7	AT2G25140	mitochondrion
+HSP92.7	AT4G14670	cytosol
+CLPB3	AT5G15450	plastid
+HSP93V	AT5G50920	plastid
+CLPC2	AT3G48870	plastid
+CLPD	AT5G51070	plastid
+SMAX1	AT5G57710	plasma membrane,endoplasmic reticulum
